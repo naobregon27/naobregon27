@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github](/images/icon.png)
+
+CSS3CSS3
+
+JavaScriptJavaScript
+
+ReactReact.js
+
+Node.jsNode.js
+
+ReduxRedux
+
+Express.jsExpress.js
+
+PostgreSQLPostgreSQL
+
+GITGIT
+
+GITJest
