@@ -100,7 +100,7 @@ A continuación, algunos repositorios públicos que representan mi nivel técnic
 
 ## 🤝 Contacto
 
-* 💼 LinkedIn: *(agregar enlace)*
+* 💼 LinkedIn: https://www.linkedin.com/in/nahuel-obregon-3b458a268
 * 📩 Disponible para oportunidades laborales o freelance
 
 ---
