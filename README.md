@@ -57,16 +57,15 @@ A continuación, algunos repositorios públicos que representan mi nivel técnic
 
 ---
 
-## 🛠️ Stack Tecnológico
+## ## 🛠️ Stack Tecnológico
 
 **Frontend**
-
-* React.js (Hooks, Custom Hooks)
-* **Redux / Redux Toolkit** (estado global)
-* **Next.js** (SSR / SSG / App Router)
-* JavaScript ES6+
-* **TypeScript**
-* HTML5 / CSS3
+- React.js (Hooks, Custom Hooks)
+- Redux / Redux Toolkit
+- Next.js (SSR / SSG / App Router)
+- JavaScript ES6+
+- TypeScript
+- HTML5 / CSS3
 
 **Backend**
 
